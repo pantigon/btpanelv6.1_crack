@@ -6,7 +6,7 @@
 
 # Usage
 
-`wget https://github.com/pantigon/btpanelv6.1_crack/crack.sh && bash crack.sh`
+`wget https://raw.githubusercontent.com/pantigon/btpanelv6.1_crack/master/crack.sh && bash crack.sh`
 
 
 # blog
