@@ -8,7 +8,7 @@ PLUGIN_RETURN=在面板安装插件完成之后，从下表选择你要破解的
 MAIN_RETURN=${Red_font}[宝塔面板v6.1.2破解脚本]${Font_suffix}
 
 git_check(){
-	GIT_V=`git --version | grep -q version`
+	GIT_V=`git --version`
 if [ $? = 0 ]; then
     echo -e "${Info} Git已安装，开始下一步操作!"
 else
